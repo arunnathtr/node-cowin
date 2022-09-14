@@ -25,3 +25,5 @@ dateTime,eventId,area,event,sessionId,remarks
 2022-09-07T09:35:36Z,1010,Clinical Range,Add parameter - right,421,HR
 2022-09-07T09:39:05Z,1013,Numeric,Add parameter - right,421,BP
 2022-09-07T09:39:09Z,1013,Real-Time,Add parameter - right,421,BP
+2022-09-07T09:39:09Z,1013,Real-Time,Add parameter - right,421,BP
+2022-09-07T09:39:09Z,1013,Real-Time,Add parameter,421,BP
