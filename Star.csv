@@ -1,0 +1,26 @@
+dateTime,eventId,area,event,sessionId,remarks
+2022-09-07T06:38:11Z,2103,Dynamic Assessment,Dynamic assessment tab - Start PLR button clicked,244,
+2022-09-07T06:38:11Z,1106,Dynamic Assessment,Show Start Baseline popup,244,
+2022-09-07T06:38:17Z,2023,Dynamic Assessment,Start baseline next button clicked,244,
+2022-09-07T06:38:17Z,1108,Dynamic Assessment,Show Start Baseline second popup,244,
+2022-09-07T06:38:20Z,2024,Dynamic Assessment,Start baseline popup 2 - Next button clicked,244,
+2022-09-07T06:38:20Z,1016,Dynamic Assessment,Start PLR,244,
+2022-09-07T06:39:04Z,2029,Dynamic Assessment,PLR - Start challenge popup - Next button clicked,244,
+2022-09-07T06:39:51Z,1041,Dynamic Assessment,DA Result - Fluid responsive,244,Delta SVI-25.4902
+2022-09-07T06:40:36Z,2033,Dynamic Assessment,Dynamic Assessment completed message popup - Ok button clicked,244,
+2022-09-07T06:41:01Z,1020,Dynamic Assessment,Start Bolus,244,
+2022-09-07T06:42:33Z,2032,Dynamic Assessment,Bolus - Start challenge popup - Next button clicked,244,
+2022-09-07T06:44:18Z,1041,Dynamic Assessment,DA Result - Fluid responsive,244,Delta SVI-25.4902
+2022-09-07T06:44:41Z,2033,Dynamic Assessment,Dynamic Assessment completed message popup - Ok button clicked,244,
+2022-09-07T06:45:55Z,1016,Dynamic Assessment,Start PLR,244,
+2022-09-07T06:46:41Z,2029,Dynamic Assessment,PLR - Start challenge popup - Next button clicked,244,
+2022-09-07T06:47:40Z,1041,Dynamic Assessment,DA Result - Fluid responsive,244,Delta SVI-28
+2022-09-07T06:48:06Z,2033,Dynamic Assessment,Dynamic Assessment completed message popup - Ok button clicked,244,
+2022-09-07T08:44:14Z,1001,Real-Time,Add parameter,421,VET
+2022-09-07T08:46:09Z,1004,Trends,Add parameter,421,BP
+2022-09-07T08:58:32Z,1016,Dynamic Assessment,Start PLR,421,
+2022-09-07T08:58:52Z,2029,Dynamic Assessment,PLR - Start challenge popup - Next button clicked,421,
+2022-09-07T09:00:00Z,1041,Dynamic Assessment,DA Result - Fluid responsive,421,Delta SVI-28
+2022-09-07T09:00:15Z,2033,Dynamic Assessment,Dynamic Assessment completed message popup - Ok button clicked,421,
+2022-09-07T09:35:36Z,1010,Clinical Range,Add parameter - right,421,HR
+2022-09-07T09:39:05Z,1013,Numeric,Add parameter - right,421,BP
